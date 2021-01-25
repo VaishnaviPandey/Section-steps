@@ -1,0 +1,64 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+section {
+  height: 80vh;
+}
+
+/* Steps Section */
+section:nth-child(2) {
+  /* background: #6ECB5A; */
+  /* background: #5CDB95; */
+  background: lightgreen;
+
+}
+
+/* Section Second CSS */
+.steps {
+  display: grid;
+}
+.two{
+  background: lightgreen;
+}
+
+.text-center {
+  color: #444;
+  text-align: center;
+  text-size: 3rem;
+}
+
+.text-head {
+  font-family: Lato;
+}
+
+.heading {
+  color: black;
+}
+
+.textStyle {
+  font-family: Lato;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.count-text-small {
+  font-size: 1.5rem;
+  font: lato;
+  text-align: left;
+}
+
+
+.text-head {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 25px;
+  padding-bottom: 0px;
+}
+
+div {
+  position: relative;
+  /* padding: 15px 0px 5px 5px; */
+  display: block;
+}
